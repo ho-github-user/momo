@@ -1,0 +1,11 @@
+feature test.
+プルリクエストのテスト
+
+var hoge = "111";
+
+if (hoge)
+{
+	console.log("hello git hub.");
+}
+
+// end.
